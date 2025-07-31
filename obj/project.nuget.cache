@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "c2L8qNO9o9I=",
+  "success": true,
+  "projectFilePath": "/home/UmerQureshi/MyApps/C#/ConsumingApis/ConsumingApis.csproj",
+  "expectedPackageFiles": [
+    "/home/UmerQureshi/.nuget/packages/microsoft.extensions.configuration/10.0.0-preview.6.25358.103/microsoft.extensions.configuration.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "/home/UmerQureshi/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.0-preview.6.25358.103/microsoft.extensions.configuration.abstractions.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "/home/UmerQureshi/.nuget/packages/microsoft.extensions.configuration.binder/10.0.0-preview.6.25358.103/microsoft.extensions.configuration.binder.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "/home/UmerQureshi/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.0-preview.6.25358.103/microsoft.extensions.dependencyinjection.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "/home/UmerQureshi/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0-preview.6.25358.103/microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "/home/UmerQureshi/.nuget/packages/microsoft.extensions.diagnostics/10.0.0-preview.6.25358.103/microsoft.extensions.diagnostics.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "/home/UmerQureshi/.nuget/packages/microsoft.extensions.diagnostics.abstractions/10.0.0-preview.6.25358.103/microsoft.extensions.diagnostics.abstractions.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "/home/UmerQureshi/.nuget/packages/microsoft.extensions.http/10.0.0-preview.6.25358.103/microsoft.extensions.http.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "/home/UmerQureshi/.nuget/packages/microsoft.extensions.logging/10.0.0-preview.6.25358.103/microsoft.extensions.logging.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "/home/UmerQureshi/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.0-preview.6.25358.103/microsoft.extensions.logging.abstractions.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "/home/UmerQureshi/.nuget/packages/microsoft.extensions.options/10.0.0-preview.6.25358.103/microsoft.extensions.options.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "/home/UmerQureshi/.nuget/packages/microsoft.extensions.options.configurationextensions/10.0.0-preview.6.25358.103/microsoft.extensions.options.configurationextensions.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "/home/UmerQureshi/.nuget/packages/microsoft.extensions.primitives/10.0.0-preview.6.25358.103/microsoft.extensions.primitives.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "/home/UmerQureshi/.nuget/packages/system.diagnostics.diagnosticsource/10.0.0-preview.6.25358.103/system.diagnostics.diagnosticsource.10.0.0-preview.6.25358.103.nupkg.sha512"
+  ],
+  "logs": []
+}
