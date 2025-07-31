@@ -18,14 +18,14 @@ This is a simple .NET 8 console project that demonstrates how to consume a publi
 - Dependency Injection (`Microsoft.Extensions.DependencyInjection`)
 
 ## Project Structure
-ConsumingApis/
+`ConsumingApis/
 │
 ├── Program.cs // Entry point, sets up DI and runs service
 ├── Services/
 │ ├── ICountryService.cs // Interface for country service
 │ └── CountryService.cs // Implementation that calls the API
 └── Models/
-└── Country.cs // C# model for JSON mapping
+└── Country.cs // C# model for JSON mapping`
 
 
 ## How to Run
